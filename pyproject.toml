@@ -1,0 +1,11 @@
+[project]
+name = "resgates"
+version = "1.0.0"
+description = "Análise de resgates de capital: integração de bases, exceções e relatório automático"
+authors = [{ name = "Gabriel Antônio Ribeiro" }]
+requires-python = ">=3.10"
+dependencies = ["pandas>=2.2", "openpyxl>=3.1", "python-pptx>=1.0", "matplotlib>=3.8"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

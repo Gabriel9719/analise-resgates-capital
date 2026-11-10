@@ -1,0 +1,574 @@
+id_baixa;data;matricula;valor;Motivos
+1;07/08/2026;101188;396,30;Aposentadoria
+2;22/05/2026;100130;997,84;Falecimento do cooperado
+3;27/01/2026;100482;1236,25;Aposentadoria
+4;27/05/2026;100908;820,95;Falecimento do cooperado
+6;25/01/2026;100855;1075,04;Desligamento do quadro social
+7;07/01/2026;101050;3491,14;Falecimento do cooperado
+8;22/08/2026;100967;1321,81;Sem motivo informado
+9;11/02/2026;100112;1869,17;Desligamento do quadro social
+10;28/04/2026;101159;1952,64;Quitação de operação de crédito
+11;27/06/2026;101353;969,70;Resgate parcial anual (até 10%)
+12;20/01/2026;101413;574,36;Desligamento do quadro social
+13;06/09/2026;100457;1078,69;Quitação de operação de crédito
+15;01/02/2026;101017;559,78;Falecimento do cooperado
+16;24/02/2026;100448;3536,16;Aposentadoria
+17;09/09/2026;101203;2131,64;Desligamento do quadro social
+18;04/02/2026;100948;760,97;Necessidade financeira do cooperado
+20;24/06/2026;101317;1176,79;Aposentadoria
+21;07/04/2026;100516;737,64;Falecimento do cooperado
+22;23/07/2026;100935;576,48;Falecimento do cooperado
+24;05/10/2026;100380;1415,53;Desligamento do quadro social
+25;10/09/2026;100602;181,08;Resgate parcial anual (até 10%)
+27;20/06/2026;101098;6641,15;Aposentadoria
+28;01/02/2026;101226;883,52;Resgate parcial anual (até 10%)
+29;07/08/2026;101476;537,95;Resgate parcial anual (até 10%)
+31;06/05/2026;100176;1371,89;Falecimento do cooperado
+32;16/04/2026;100580;323,85;Resgate parcial anual (até 10%)
+33;02/10/2026;101043;950,40;Desligamento do quadro social
+34;06/10/2026;100027;450,35;Falecimento do cooperado
+35;13/10/2026;101342;689,87;Desligamento do quadro social
+36;19/09/2026;100309;1445,84;Aposentadoria
+37;02/01/2026;100318;182,28;Resgate parcial anual (até 10%)
+38;01/09/2026;100487;1233,02;Aposentadoria
+40;27/01/2026;100341;95,61;Resgate parcial anual (até 10%)
+41;18/08/2026;100799;272,23;Falecimento do cooperado
+42;17/03/2026;100633;418,93;Falecimento do cooperado
+43;30/05/2026;100423;1469,20;Desligamento do quadro social
+45;18/08/2026;101470;422,35;Desligamento do quadro social
+46;20/03/2026;100876;1408,50;Aposentadoria
+49;10/04/2026;100551;198,79;Aposentadoria
+50;12/01/2026;100950;3102,63;Aposentadoria
+51;02/10/2026;100211;484,39;Resgate parcial anual (até 10%)
+52;16/05/2026;101222;12417,28;Negociação comercial
+53;23/03/2026;101293;214,24;Aposentadoria
+54;12/06/2026;100549;933,75;Desligamento do quadro social
+55;15/01/2026;100627;696,90;Resgate parcial anual (até 10%)
+56;10/03/2026;100905;1137,56;Sem motivo informado
+57;01/10/2026;100869;583,23;Resgate parcial anual (até 10%)
+58;19/01/2026;100428;2617,52;Desligamento do quadro social
+59;04/06/2026;100725;1183,79;Aposentadoria
+60;15/10/2026;100839;980,72;Desligamento do quadro social
+61;11/10/2026;100468;1718,65;Falecimento do cooperado
+62;27/04/2026;100188;1698,87;Falecimento do cooperado
+63;14/10/2026;101349;395,05;Resgate parcial anual (até 10%)
+64;20/10/2026;101196;1256,25;Falecimento do cooperado
+65;08/03/2026;100894;2014,56;Resgate parcial anual (até 10%)
+66;30/04/2026;100172;272,14;Necessidade financeira do cooperado
+67;15/02/2026;100952;875,49;Quitação de operação de crédito
+68;02/09/2026;100253;2239,38;Desligamento do quadro social
+69;12/08/2026;100662;1552,35;Falecimento do cooperado
+70;07/01/2026;100132;852,78;Falecimento do cooperado
+71;08/05/2026;100695;2937,63;Desligamento do quadro social
+73;10/02/2026;100562;218,68;Resgate parcial anual (até 10%)
+74;27/03/2026;100177;991,90;Resgate parcial anual (até 10%)
+75;10/03/2026;100033;1096,13;Resgate parcial anual (até 10%)
+76;17/01/2026;100188;1625,21;Falecimento do cooperado
+77;08/06/2026;101435;494,28;Falecimento do cooperado
+78;22/05/2026;100278;1700,22;Desligamento do quadro social
+79;12/05/2026;100228;476,67;Necessidade financeira do cooperado
+80;06/10/2026;101265;371,85;Resgate parcial anual (até 10%)
+81;27/02/2026;101423;1983,32;Falecimento do cooperado
+82;02/08/2026;100613;2403,67;Falecimento do cooperado
+83;11/01/2026;101257;3884,59;Aposentadoria
+84;11/05/2026;101156;153,39;Resgate parcial anual (até 10%)
+85;05/09/2026;100178;143,57;Resgate parcial anual (até 10%)
+86;29/01/2026;101031;1885,57;Negociação comercial
+87;09/10/2026;100359;2897,47;Sem motivo informado
+88;21/01/2026;100989;1525,37;Falecimento do cooperado
+89;17/03/2026;100563;3561,92;Quitação de operação de crédito
+90;04/02/2026;100353;1039,37;Falecimento do cooperado
+91;03/07/2026;100518;843,86;Sem motivo informado
+92;10/09/2026;100499;1046,76;Falecimento do cooperado
+93;04/05/2026;100370;2491,00;Falecimento do cooperado
+94;27/07/2026;100150;1205,90;Falecimento do cooperado
+95;18/09/2026;100841;7000,58;Falecimento do cooperado
+96;06/03/2026;101458;3004,60;Falecimento do cooperado
+97;14/05/2026;100245;352,71;Resgate parcial anual (até 10%)
+98;05/05/2026;100792;600,72;Resgate parcial anual (até 10%)
+99;14/09/2026;100091;764,64;Resgate parcial anual (até 10%)
+100;13/04/2026;100803;2735,45;Desligamento do quadro social
+101;13/10/2026;100399;770,15;Falecimento do cooperado
+103;30/08/2026;101449;1288,00;Negociação comercial
+104;04/06/2026;100505;5406,48;Desligamento do quadro social
+105;18/10/2026;101385;1068,43;Desligamento do quadro social
+106;19/06/2026;101056;645,59;Falecimento do cooperado
+107;29/10/2026;100344;5277,12;Desligamento do quadro social
+108;01/08/2026;100414;2896,56;Quitação de operação de crédito
+109;21/06/2026;100081;56,96;Resgate parcial anual (até 10%)
+111;28/08/2026;100114;2098,25;Aposentadoria
+112;25/08/2026;100153;717,42;Desligamento do quadro social
+113;15/03/2026;100227;708,41;Aposentadoria
+114;06/10/2026;100337;3000,80;Aposentadoria
+115;07/09/2026;101425;222,91;Resgate parcial anual (até 10%)
+116;07/01/2026;100732;939,72;Desligamento do quadro social
+118;07/10/2026;101333;885,43;Falecimento do cooperado
+119;30/07/2026;101021;3687,58;Falecimento do cooperado
+120;29/05/2026;100216;2832,26;Desligamento do quadro social
+121;03/08/2026;100874;8918,43;Necessidade financeira do cooperado
+122;14/07/2026;100808;5290,35;Desligamento do quadro social
+123;28/06/2026;100713;536,33;Falecimento do cooperado
+124;26/02/2026;100336;363,95;Resgate parcial anual (até 10%)
+125;15/07/2026;100498;3724,22;Quitação de operação de crédito
+126;24/02/2026;100747;2918,85;Desligamento do quadro social
+127;28/08/2026;100159;4411,18;Falecimento do cooperado
+128;26/07/2026;100092;1012,15;Aposentadoria
+129;28/08/2026;100228;834,37;Falecimento do cooperado
+130;01/02/2026;101393;158,43;Resgate parcial anual (até 10%)
+131;02/02/2026;101190;1894,69;Falecimento do cooperado
+132;29/09/2026;100670;969,14;Falecimento do cooperado
+133;23/02/2026;100877;875,38;Falecimento do cooperado
+134;07/05/2026;100234;1554,25;Desligamento do quadro social
+135;12/03/2026;101457;601,41;Desligamento do quadro social
+136;17/04/2026;100048;2417,95;Falecimento do cooperado
+137;08/07/2026;101252;3737,09;Resgate parcial anual (até 10%)
+138;30/03/2026;101423;2678,01;Quitação de operação de crédito
+139;05/09/2026;100960;427,85;Resgate parcial anual (até 10%)
+140;18/09/2026;101110;2771,81;Quitação de operação de crédito
+142;22/05/2026;100872;1116,65;Aposentadoria
+143;21/03/2026;100401;882,12;Desligamento do quadro social
+144;17/02/2026;100292;1539,94;Resgate parcial anual (até 10%)
+145;18/05/2026;101467;7721,26;Sem motivo informado
+146;29/03/2026;100547;592,86;Sem motivo informado
+148;06/04/2026;101308;669,06;Quitação de operação de crédito
+150;20/04/2026;100059;1263,16;Desligamento do quadro social
+151;07/05/2026;100285;1380,27;Negociação comercial
+152;22/05/2026;101332;1216,00;Resgate parcial anual (até 10%)
+153;19/01/2026;100029;1530,38;Aposentadoria
+155;13/01/2026;101262;3627,94;Quitação de operação de crédito
+156;25/07/2026;101111;2654,70;Desligamento do quadro social
+157;25/06/2026;100427;477,39;Resgate parcial anual (até 10%)
+158;30/07/2026;100800;1073,44;Falecimento do cooperado
+159;09/05/2026;100853;1537,37;Falecimento do cooperado
+160;26/01/2026;100284;6215,12;Desligamento do quadro social
+161;20/05/2026;101420;565,14;Resgate parcial anual (até 10%)
+162;04/07/2026;101100;1511,37;Aposentadoria
+163;03/01/2026;101337;2389,54;Falecimento do cooperado
+164;28/09/2026;100519;1507,54;Desligamento do quadro social
+165;29/06/2026;100299;1687,99;Resgate parcial anual (até 10%)
+166;11/05/2026;100152;515,14;Desligamento do quadro social
+167;07/03/2026;101315;462,37;Quitação de operação de crédito
+168;16/10/2026;101287;1170,33;Necessidade financeira do cooperado
+170;28/02/2026;101254;5059,87;Aposentadoria
+171;05/08/2026;100109;2127,83;Quitação de operação de crédito
+172;05/01/2026;101366;365,28;Resgate parcial anual (até 10%)
+173;07/08/2026;100407;1053,44;Resgate parcial anual (até 10%)
+174;18/04/2026;101117;5125,32;Desligamento do quadro social
+175;05/10/2026;100270;766,56;Falecimento do cooperado
+176;06/04/2026;101166;2994,40;Negociação comercial
+177;12/04/2026;100060;1641,66;Aposentadoria
+178;15/08/2026;100460;578,72;Sem motivo informado
+180;06/05/2026;101135;1510,60;Necessidade financeira do cooperado
+181;15/07/2026;100606;1147,58;Aposentadoria
+182;14/04/2026;100917;692,95;Aposentadoria
+183;25/02/2026;100038;1340,56;Falecimento do cooperado
+184;14/05/2026;101274;1624,04;Sem motivo informado
+185;17/08/2026;100833;976,91;Falecimento do cooperado
+187;06/01/2026;101234;1136,38;Aposentadoria
+188;30/07/2026;100514;2735,52;Desligamento do quadro social
+189;16/04/2026;100536;885,75;Falecimento do cooperado
+190;13/01/2026;100354;888,67;Falecimento do cooperado
+193;15/04/2026;101025;2104,13;Desligamento do quadro social
+194;02/05/2026;101039;7801,27;Desligamento do quadro social
+195;28/02/2026;100340;1534,30;Falecimento do cooperado
+196;03/09/2026;100997;1588,87;Sem motivo informado
+197;19/09/2026;101440;1052,88;Negociação comercial
+198;21/05/2026;101094;1570,16;Aposentadoria
+199;26/02/2026;100531;986,08;Aposentadoria
+200;21/07/2026;100761;3095,43;Sem motivo informado
+201;10/02/2026;101113;801,98;Sem motivo informado
+202;09/05/2026;101189;613,09;Desligamento do quadro social
+203;01/10/2026;100314;1718,50;Aposentadoria
+205;22/01/2026;100347;612,32;Resgate parcial anual (até 10%)
+206;24/10/2026;100997;1023,72;Falecimento do cooperado
+207;13/05/2026;101081;829,38;Desligamento do quadro social
+208;14/08/2026;101148;727,45;Desligamento do quadro social
+209;12/08/2026;100647;755,86;Falecimento do cooperado
+210;06/02/2026;101200;2808,48;Falecimento do cooperado
+211;05/07/2026;100150;1209,71;Aposentadoria
+212;24/07/2026;100250;2635,23;Desligamento do quadro social
+214;12/08/2026;100660;2850,43;Aposentadoria
+215;23/04/2026;101350;203,31;Negociação comercial
+216;04/04/2026;100932;1756,83;Falecimento do cooperado
+217;25/07/2026;101371;5112,76;Aposentadoria
+218;29/07/2026;100876;862,25;Desligamento do quadro social
+219;28/03/2026;100560;1257,82;Desligamento do quadro social
+220;23/08/2026;100112;300,55;Desligamento do quadro social
+222;25/08/2026;101067;4224,94;Falecimento do cooperado
+223;06/02/2026;101445;230,19;Resgate parcial anual (até 10%)
+224;12/01/2026;100644;702,33;Aposentadoria
+225;08/10/2026;101200;1370,14;Falecimento do cooperado
+226;08/06/2026;100688;171,26;Resgate parcial anual (até 10%)
+227;26/01/2026;100062;1439,35;Desligamento do quadro social
+228;31/08/2026;100212;1614,31;Falecimento do cooperado
+229;15/03/2026;100390;433,42;Aposentadoria
+230;05/01/2026;100400;426,88;Falecimento do cooperado
+231;11/01/2026;100852;1077,77;Falecimento do cooperado
+232;21/03/2026;101345;1819,24;Desligamento do quadro social
+233;27/06/2026;100973;921,01;Resgate parcial anual (até 10%)
+235;09/08/2026;100236;315,58;Resgate parcial anual (até 10%)
+236;21/03/2026;100737;954,38;Falecimento do cooperado
+237;22/02/2026;100795;991,88;Falecimento do cooperado
+238;29/06/2026;100309;149,79;Aposentadoria
+239;24/02/2026;100126;9301,90;Falecimento do cooperado
+240;26/06/2026;100511;3454,47;Desligamento do quadro social
+241;23/08/2026;101323;3055,61;Resgate parcial anual (até 10%)
+242;13/08/2026;100107;484,54;Resgate parcial anual (até 10%)
+243;29/03/2026;100692;2330,76;Falecimento do cooperado
+244;17/10/2026;100752;287,45;Resgate parcial anual (até 10%)
+245;04/05/2026;100832;329,26;Resgate parcial anual (até 10%)
+246;12/10/2026;100184;4845,00;Quitação de operação de crédito
+247;19/08/2026;100396;831,13;Resgate parcial anual (até 10%)
+248;23/01/2026;100811;63,01;Resgate parcial anual (até 10%)
+249;22/07/2026;101194;874,58;Aposentadoria
+250;15/02/2026;100665;636,07;Desligamento do quadro social
+251;11/06/2026;101463;3191,37;Desligamento do quadro social
+252;29/08/2026;101242;194,10;Resgate parcial anual (até 10%)
+253;31/07/2026;101303;2579,80;Quitação de operação de crédito
+254;25/07/2026;101223;2831,04;Falecimento do cooperado
+256;28/05/2026;101404;927,43;Resgate parcial anual (até 10%)
+257;07/05/2026;101472;13410,53;Aposentadoria
+258;05/06/2026;100983;5802,02;Desligamento do quadro social
+259;17/03/2026;101103;3325,43;Negociação comercial
+260;07/06/2026;100135;1442,47;Aposentadoria
+261;17/09/2026;100511;1082,34;Resgate parcial anual (até 10%)
+262;31/07/2026;100455;2685,29;Desligamento do quadro social
+263;20/03/2026;100965;1794,21;Falecimento do cooperado
+264;26/04/2026;100203;909,26;Desligamento do quadro social
+265;30/01/2026;101466;299,72;Falecimento do cooperado
+266;05/04/2026;101380;5278,05;Falecimento do cooperado
+267;14/07/2026;101241;112,39;Resgate parcial anual (até 10%)
+268;20/04/2026;101465;2992,46;Falecimento do cooperado
+270;12/04/2026;100354;3527,82;Desligamento do quadro social
+272;09/02/2026;100888;288,68;Resgate parcial anual (até 10%)
+273;28/10/2026;100237;1857,25;Necessidade financeira do cooperado
+274;03/03/2026;101196;3250,10;Aposentadoria
+275;20/09/2026;100380;902,76;Desligamento do quadro social
+276;17/04/2026;100608;1092,34;Aposentadoria
+279;24/07/2026;101484;354,00;Desligamento do quadro social
+280;20/08/2026;100058;1895,48;Desligamento do quadro social
+281;03/08/2026;101210;2161,21;Aposentadoria
+282;31/07/2026;101449;96,69;Resgate parcial anual (até 10%)
+283;11/09/2026;101125;2790,14;Necessidade financeira do cooperado
+284;16/04/2026;100570;821,36;Desligamento do quadro social
+285;22/09/2026;101372;577,74;Falecimento do cooperado
+286;02/05/2026;100784;2780,91;Aposentadoria
+287;26/04/2026;100084;1467,50;Resgate parcial anual (até 10%)
+289;18/03/2026;100461;208,38;Resgate parcial anual (até 10%)
+291;29/06/2026;101467;1383,29;Aposentadoria
+292;25/07/2026;100121;2048,32;Falecimento do cooperado
+293;25/01/2026;101292;2270,88;Sem motivo informado
+294;14/01/2026;101329;4374,60;Negociação comercial
+295;14/05/2026;101232;223,57;Resgate parcial anual (até 10%)
+297;13/10/2026;100282;724,58;Resgate parcial anual (até 10%)
+298;10/06/2026;100399;12366,31;Quitação de operação de crédito
+299;07/05/2026;101480;501,69;Aposentadoria
+300;24/08/2026;100324;3729,64;Falecimento do cooperado
+301;10/04/2026;100222;1141,17;Aposentadoria
+302;04/03/2026;101316;2331,20;Resgate parcial anual (até 10%)
+303;19/09/2026;101062;5837,21;Aposentadoria
+304;11/04/2026;100749;2504,01;Aposentadoria
+305;11/01/2026;101171;460,81;Sem motivo informado
+306;09/05/2026;101440;1317,73;Desligamento do quadro social
+308;14/03/2026;100961;693,06;Falecimento do cooperado
+309;26/08/2026;100804;516,91;Resgate parcial anual (até 10%)
+311;22/01/2026;100812;5850,46;Necessidade financeira do cooperado
+312;21/05/2026;101037;2661,78;Aposentadoria
+313;21/04/2026;100441;1544,16;Falecimento do cooperado
+314;16/02/2026;100977;3992,25;Desligamento do quadro social
+315;09/02/2026;101042;610,93;Resgate parcial anual (até 10%)
+316;06/06/2026;100447;1283,28;Aposentadoria
+317;01/06/2026;100969;609,34;Falecimento do cooperado
+318;16/04/2026;100877;809,27;Desligamento do quadro social
+319;16/06/2026;101110;1100,52;Resgate parcial anual (até 10%)
+320;14/03/2026;100353;1061,62;Negociação comercial
+321;13/04/2026;100730;2756,64;Quitação de operação de crédito
+322;19/08/2026;100613;211,09;Resgate parcial anual (até 10%)
+323;20/04/2026;100412;1479,38;Falecimento do cooperado
+324;21/09/2026;100771;1236,45;Desligamento do quadro social
+325;25/10/2026;100932;3197,82;Quitação de operação de crédito
+327;17/07/2026;101219;176,47;Resgate parcial anual (até 10%)
+328;15/09/2026;100615;912,02;Quitação de operação de crédito
+329;12/10/2026;100304;281,73;Aposentadoria
+330;26/10/2026;100715;1107,66;Falecimento do cooperado
+331;16/01/2026;100259;745,10;Desligamento do quadro social
+332;07/06/2026;100968;326,23;Falecimento do cooperado
+333;12/08/2026;101125;3360,72;Falecimento do cooperado
+334;20/09/2026;100616;1738,90;Aposentadoria
+335;09/05/2026;100300;636,15;Aposentadoria
+336;16/05/2026;101368;570,74;Resgate parcial anual (até 10%)
+337;11/10/2026;100116;496,12;Desligamento do quadro social
+338;07/04/2026;101108;184,92;Aposentadoria
+339;26/10/2026;100480;783,44;Falecimento do cooperado
+340;19/10/2026;100450;5816,08;Desligamento do quadro social
+341;06/03/2026;100097;1386,32;Falecimento do cooperado
+343;15/04/2026;101271;1026,12;Aposentadoria
+344;05/08/2026;101347;1739,53;Sem motivo informado
+345;29/05/2026;100737;1731,46;Resgate parcial anual (até 10%)
+347;11/08/2026;100654;1983,41;Aposentadoria
+348;09/05/2026;100826;1993,33;Desligamento do quadro social
+349;31/08/2026;100574;233,80;Resgate parcial anual (até 10%)
+350;08/08/2026;100970;536,21;Desligamento do quadro social
+351;24/01/2026;100881;673,84;Resgate parcial anual (até 10%)
+352;03/06/2026;101482;6384,35;Negociação comercial
+353;15/06/2026;100791;2586,68;Aposentadoria
+354;09/07/2026;101279;1202,30;Resgate parcial anual (até 10%)
+355;14/10/2026;100348;775,66;Desligamento do quadro social
+356;11/07/2026;100617;956,88;Desligamento do quadro social
+357;26/04/2026;100158;2066,25;Desligamento do quadro social
+358;24/02/2026;101326;524,10;Aposentadoria
+359;30/06/2026;100961;728,45;Resgate parcial anual (até 10%)
+360;20/06/2026;101319;7093,09;Aposentadoria
+362;23/10/2026;100473;1934,15;Desligamento do quadro social
+363;26/04/2026;101322;790,33;Desligamento do quadro social
+364;25/09/2026;100412;5556,85;Desligamento do quadro social
+365;19/10/2026;101050;773,17;Falecimento do cooperado
+366;22/09/2026;100314;1100,59;Necessidade financeira do cooperado
+367;31/07/2026;101330;1168,18;Aposentadoria
+368;19/04/2026;100520;129,53;Resgate parcial anual (até 10%)
+370;28/06/2026;101407;640,78;Resgate parcial anual (até 10%)
+371;24/02/2026;100691;1717,84;Sem motivo informado
+372;22/05/2026;100276;1449,82;Aposentadoria
+373;02/03/2026;101259;187,32;Resgate parcial anual (até 10%)
+374;24/06/2026;101323;929,62;Aposentadoria
+375;04/07/2026;100898;893,68;Aposentadoria
+376;01/08/2026;100002;2786,17;Desligamento do quadro social
+377;27/07/2026;101409;1960,90;Desligamento do quadro social
+378;08/03/2026;100921;1472,01;Desligamento do quadro social
+379;27/07/2026;100511;864,93;Falecimento do cooperado
+380;30/08/2026;101425;624,41;Aposentadoria
+381;09/06/2026;100802;511,47;Aposentadoria
+382;02/04/2026;100999;2032,27;Aposentadoria
+383;02/01/2026;101477;2815,60;Falecimento do cooperado
+385;10/07/2026;100184;1995,20;Aposentadoria
+386;09/02/2026;100839;13453,64;Aposentadoria
+387;07/04/2026;100459;918,00;Resgate parcial anual (até 10%)
+388;17/03/2026;101377;114,73;Resgate parcial anual (até 10%)
+389;12/04/2026;100792;837,88;Aposentadoria
+390;06/09/2026;100903;2042,34;Negociação comercial
+391;19/09/2026;100211;319,43;Resgate parcial anual (até 10%)
+392;04/08/2026;100489;2536,00;Aposentadoria
+393;26/07/2026;100083;3417,66;Sem motivo informado
+394;08/09/2026;100638;4665,50;Desligamento do quadro social
+395;24/04/2026;101193;1028,23;Negociação comercial
+396;20/05/2026;100399;622,43;Falecimento do cooperado
+398;07/09/2026;100671;1692,44;Resgate parcial anual (até 10%)
+400;25/07/2026;100908;1402,27;Aposentadoria
+401;02/04/2026;100499;957,53;Negociação comercial
+402;02/01/2026;101290;2232,75;Falecimento do cooperado
+403;29/10/2026;100652;2255,54;Falecimento do cooperado
+404;21/03/2026;100217;4329,00;Desligamento do quadro social
+406;26/07/2026;101266;1430,41;Aposentadoria
+407;23/06/2026;100224;226,42;Aposentadoria
+408;25/03/2026;100869;4228,87;Desligamento do quadro social
+409;19/09/2026;100917;2999,16;Desligamento do quadro social
+410;28/08/2026;100545;4802,91;Sem motivo informado
+411;29/07/2026;100322;1150,41;Sem motivo informado
+412;06/03/2026;101448;147,04;Resgate parcial anual (até 10%)
+413;07/10/2026;100521;1078,63;Desligamento do quadro social
+414;09/01/2026;100382;72,73;Resgate parcial anual (até 10%)
+415;17/05/2026;101314;2086,39;Falecimento do cooperado
+417;27/08/2026;100082;243,04;Desligamento do quadro social
+418;29/06/2026;101423;533,60;Sem motivo informado
+419;02/09/2026;100466;4616,85;Aposentadoria
+420;29/06/2026;100699;889,18;Desligamento do quadro social
+421;22/06/2026;100284;2067,41;Resgate parcial anual (até 10%)
+422;07/06/2026;100126;158,01;Resgate parcial anual (até 10%)
+423;07/10/2026;101151;2291,95;Negociação comercial
+424;28/02/2026;100396;862,47;Falecimento do cooperado
+425;19/04/2026;100929;857,66;Resgate parcial anual (até 10%)
+426;11/09/2026;100209;2624,28;Desligamento do quadro social
+428;15/05/2026;100258;383,58;Desligamento do quadro social
+429;20/08/2026;100125;3558,50;Aposentadoria
+430;08/07/2026;100878;4177,76;Aposentadoria
+431;31/01/2026;100273;567,49;Resgate parcial anual (até 10%)
+432;31/05/2026;100925;3498,90;Necessidade financeira do cooperado
+433;06/01/2026;101281;300,34;Resgate parcial anual (até 10%)
+434;06/10/2026;101331;774,86;Desligamento do quadro social
+435;09/07/2026;100172;2094,60;Aposentadoria
+437;18/05/2026;100505;127,24;Quitação de operação de crédito
+439;02/07/2026;101105;4506,31;Sem motivo informado
+440;17/08/2026;100790;5453,64;Desligamento do quadro social
+441;04/06/2026;100626;8023,00;Desligamento do quadro social
+442;26/07/2026;100479;1292,76;Falecimento do cooperado
+443;04/08/2026;100188;3594,58;Desligamento do quadro social
+444;01/02/2026;100879;631,89;Falecimento do cooperado
+445;08/04/2026;100424;996,21;Aposentadoria
+446;21/09/2026;100867;463,77;Aposentadoria
+447;07/01/2026;100385;4718,89;Falecimento do cooperado
+448;09/01/2026;100171;227,95;Resgate parcial anual (até 10%)
+449;11/08/2026;101217;545,82;Resgate parcial anual (até 10%)
+450;19/06/2026;100014;6137,10;Desligamento do quadro social
+451;18/04/2026;100331;1028,53;Sem motivo informado
+452;18/02/2026;100281;5306,06;Desligamento do quadro social
+453;11/10/2026;100825;354,25;Falecimento do cooperado
+454;08/10/2026;100509;164,69;Resgate parcial anual (até 10%)
+455;05/02/2026;100070;1145,90;Falecimento do cooperado
+456;02/06/2026;101201;2518,20;Desligamento do quadro social
+457;19/06/2026;101464;5724,57;Quitação de operação de crédito
+458;12/02/2026;101195;679,41;Resgate parcial anual (até 10%)
+459;09/09/2026;101468;182,61;Falecimento do cooperado
+460;01/04/2026;100035;1161,93;Desligamento do quadro social
+461;11/04/2026;100527;2465,17;Falecimento do cooperado
+462;10/08/2026;100964;771,82;Falecimento do cooperado
+463;23/08/2026;100959;698,81;Falecimento do cooperado
+464;28/04/2026;100496;3969,37;Desligamento do quadro social
+465;31/03/2026;100621;2944,02;Aposentadoria
+466;26/03/2026;100901;645,06;Desligamento do quadro social
+467;09/08/2026;100024;2856,43;Desligamento do quadro social
+468;03/09/2026;100161;1747,26;Falecimento do cooperado
+470;30/06/2026;100692;1281,09;Desligamento do quadro social
+471;14/03/2026;100292;517,24;Falecimento do cooperado
+472;12/09/2026;101450;662,38;Falecimento do cooperado
+473;20/08/2026;101487;1302,60;Sem motivo informado
+474;28/09/2026;100269;1306,39;Resgate parcial anual (até 10%)
+475;30/06/2026;101338;1636,22;Falecimento do cooperado
+476;01/04/2026;100543;505,70;Resgate parcial anual (até 10%)
+477;13/02/2026;100807;3898,65;Aposentadoria
+478;14/08/2026;101468;910,74;Desligamento do quadro social
+479;19/01/2026;101002;1744,53;Falecimento do cooperado
+480;17/01/2026;100756;183,01;Resgate parcial anual (até 10%)
+482;06/01/2026;100835;219,41;Resgate parcial anual (até 10%)
+483;15/03/2026;100722;2797,26;Desligamento do quadro social
+484;25/10/2026;100983;225,27;Resgate parcial anual (até 10%)
+485;12/08/2026;100247;1983,59;Negociação comercial
+486;08/10/2026;101248;2043,98;Desligamento do quadro social
+487;26/01/2026;101047;242,32;Resgate parcial anual (até 10%)
+488;25/07/2026;100568;1200,80;Necessidade financeira do cooperado
+489;27/07/2026;100491;117,86;Resgate parcial anual (até 10%)
+490;23/09/2026;101301;1646,01;Necessidade financeira do cooperado
+491;24/09/2026;101333;1048,70;Desligamento do quadro social
+493;15/08/2026;100420;3507,45;Desligamento do quadro social
+494;24/02/2026;101085;3609,19;Negociação comercial
+495;29/10/2026;100505;3481,94;Aposentadoria
+496;01/07/2026;100827;208,85;Quitação de operação de crédito
+497;10/10/2026;100980;2395,22;Desligamento do quadro social
+498;25/03/2026;100247;3802,62;Negociação comercial
+499;12/08/2026;101023;1940,83;Falecimento do cooperado
+500;03/03/2026;100561;1292,21;Desligamento do quadro social
+501;08/05/2026;101248;1383,25;Falecimento do cooperado
+502;25/10/2026;100060;1550,27;Desligamento do quadro social
+504;09/05/2026;100545;400,47;Necessidade financeira do cooperado
+505;20/09/2026;100775;674,91;Desligamento do quadro social
+506;04/08/2026;100735;1571,44;Falecimento do cooperado
+507;30/05/2026;101108;573,50;Resgate parcial anual (até 10%)
+508;17/05/2026;100612;4311,69;Desligamento do quadro social
+509;04/10/2026;101015;248,12;Resgate parcial anual (até 10%)
+510;22/01/2026;101040;937,84;Resgate parcial anual (até 10%)
+511;06/03/2026;100304;898,07;Aposentadoria
+512;26/10/2026;100437;2772,97;Falecimento do cooperado
+513;13/06/2026;100137;1114,04;Desligamento do quadro social
+514;27/06/2026;100918;1414,74;Falecimento do cooperado
+515;25/04/2026;101242;1952,50;Falecimento do cooperado
+516;28/03/2026;101500;2591,58;Desligamento do quadro social
+519;22/09/2026;100256;400,14;Desligamento do quadro social
+520;30/09/2026;101144;367,18;Resgate parcial anual (até 10%)
+521;09/10/2026;100834;1369,08;Aposentadoria
+522;13/07/2026;101433;711,54;Aposentadoria
+523;10/08/2026;101004;257,18;Resgate parcial anual (até 10%)
+524;25/01/2026;100638;3789,01;Desligamento do quadro social
+525;15/04/2026;100997;2382,85;Aposentadoria
+526;23/09/2026;100794;1652,36;Falecimento do cooperado
+527;14/02/2026;101296;1005,55;Falecimento do cooperado
+528;20/02/2026;100107;2206,06;Falecimento do cooperado
+529;22/03/2026;100965;1442,32;Aposentadoria
+531;07/10/2026;100495;1181,11;Aposentadoria
+532;26/09/2026;100757;1391,68;Quitação de operação de crédito
+533;17/07/2026;100092;627,01;Falecimento do cooperado
+534;31/05/2026;101317;1644,65;Desligamento do quadro social
+535;12/04/2026;100767;6275,21;Falecimento do cooperado
+536;18/08/2026;101019;876,46;Falecimento do cooperado
+538;04/01/2026;100038;558,42;Aposentadoria
+539;08/06/2026;101027;865,05;Desligamento do quadro social
+540;21/10/2026;101008;541,59;Aposentadoria
+541;25/06/2026;100036;2669,74;Quitação de operação de crédito
+542;21/03/2026;101324;1379,70;Aposentadoria
+543;08/06/2026;100505;677,83;Desligamento do quadro social
+544;22/07/2026;100192;1064,64;Aposentadoria
+545;03/01/2026;100325;534,46;Falecimento do cooperado
+546;28/05/2026;101395;1569,67;Desligamento do quadro social
+547;27/06/2026;100924;1076,77;Falecimento do cooperado
+548;29/05/2026;100086;222,28;Aposentadoria
+549;22/08/2026;100792;3259,38;Falecimento do cooperado
+550;07/01/2026;100143;369,66;Desligamento do quadro social
+551;01/05/2026;100490;3189,73;Aposentadoria
+552;29/07/2026;100758;2060,62;Aposentadoria
+553;05/03/2026;100967;2486,61;Falecimento do cooperado
+554;12/06/2026;100367;3002,47;Falecimento do cooperado
+555;16/07/2026;100888;1335,96;Falecimento do cooperado
+556;03/10/2026;101067;252,15;Resgate parcial anual (até 10%)
+557;29/04/2026;100195;1269,06;Necessidade financeira do cooperado
+558;22/10/2026;101460;1278,41;Quitação de operação de crédito
+559;22/02/2026;100365;1059,91;Desligamento do quadro social
+561;22/09/2026;101324;1176,50;Desligamento do quadro social
+562;12/01/2026;100047;2299,78;Resgate parcial anual (até 10%)
+563;12/08/2026;101208;124,14;Desligamento do quadro social
+564;15/04/2026;101332;211,40;Resgate parcial anual (até 10%)
+565;27/03/2026;100319;513,20;Falecimento do cooperado
+566;18/01/2026;100966;1775,41;Desligamento do quadro social
+568;11/10/2026;100565;426,76;Resgate parcial anual (até 10%)
+569;17/06/2026;100265;2112,13;Falecimento do cooperado
+570;12/05/2026;100284;2324,19;Aposentadoria
+571;06/10/2026;100013;617,90;Desligamento do quadro social
+572;27/09/2026;100351;5137,78;Desligamento do quadro social
+573;12/05/2026;100686;10089,99;Quitação de operação de crédito
+574;13/10/2026;101467;144,47;Negociação comercial
+575;12/02/2026;100029;4697,86;Aposentadoria
+576;30/07/2026;100559;3302,29;Desligamento do quadro social
+578;01/04/2026;100488;214,62;Aposentadoria
+579;23/05/2026;100005;917,03;Necessidade financeira do cooperado
+580;05/10/2026;100607;4073,97;Falecimento do cooperado
+581;19/05/2026;100482;486,83;Aposentadoria
+582;13/06/2026;101262;461,08;Resgate parcial anual (até 10%)
+583;20/10/2026;100218;874,00;Falecimento do cooperado
+584;08/02/2026;100659;1713,91;Resgate parcial anual (até 10%)
+585;04/02/2026;101443;250,18;Sem motivo informado
+586;25/07/2026;101363;3150,36;Desligamento do quadro social
+587;02/07/2026;100495;565,95;Aposentadoria
+588;30/03/2026;101046;4618,69;Aposentadoria
+590;22/03/2026;101500;1907,22;Desligamento do quadro social
+591;30/07/2026;100609;3087,19;Aposentadoria
+593;03/07/2026;101174;206,12;Resgate parcial anual (até 10%)
+595;15/07/2026;100538;434,07;Quitação de operação de crédito
+596;11/04/2026;101023;369,11;Aposentadoria
+597;11/02/2026;100669;442,51;Resgate parcial anual (até 10%)
+598;29/03/2026;100859;7449,84;Aposentadoria
+599;31/01/2026;100948;1225,83;Desligamento do quadro social
+600;11/07/2026;100063;2076,27;Aposentadoria
+601;30/01/2026;100092;1186,42;Falecimento do cooperado
+602;15/05/2026;101403;1148,98;Resgate parcial anual (até 10%)
+603;03/09/2026;100205;5117,43;Resgate parcial anual (até 10%)
+604;10/02/2026;101494;4263,79;Desligamento do quadro social
+606;10/01/2026;100179;6874,06;Aposentadoria
+607;27/07/2026;100959;2039,82;Aposentadoria
+608;27/02/2026;101216;510,43;Resgate parcial anual (até 10%)
+609;31/03/2026;101298;245,01;Quitação de operação de crédito
+610;25/02/2026;100685;335,46;Resgate parcial anual (até 10%)
+611;08/04/2026;100764;1479,15;Falecimento do cooperado
+612;22/05/2026;100755;1661,75;Quitação de operação de crédito
+613;15/06/2026;101426;654,19;Desligamento do quadro social
+614;14/08/2026;100038;2515,31;Desligamento do quadro social
+615;05/08/2026;101078;3292,58;Aposentadoria
+616;26/04/2026;100528;514,46;Falecimento do cooperado
+617;06/02/2026;100289;1997,94;Resgate parcial anual (até 10%)
+618;21/04/2026;100454;687,54;Desligamento do quadro social
+619;01/03/2026;101499;499,45;Negociação comercial
+620;05/06/2026;100406;384,98;Aposentadoria
+621;02/04/2026;100254;738,52;Resgate parcial anual (até 10%)
+622;26/10/2026;101332;658,57;Desligamento do quadro social
+623;06/05/2026;100608;1042,58;Falecimento do cooperado
+624;30/08/2026;100830;199,95;Aposentadoria
+625;22/03/2026;100552;776,18;Aposentadoria
+626;11/03/2026;101248;2934,92;Aposentadoria
+627;04/08/2026;100162;2393,67;Quitação de operação de crédito
+628;14/06/2026;100646;128,78;Resgate parcial anual (até 10%)
+629;12/06/2026;100482;2148,85;Aposentadoria
+630;27/02/2026;100252;776,80;Aposentadoria
+631;09/01/2026;100293;2808,14;Aposentadoria
+632;24/08/2026;100574;297,20;Resgate parcial anual (até 10%)
+633;24/03/2026;100005;274,76;Resgate parcial anual (até 10%)
+634;05/09/2026;100574;2721,40;Falecimento do cooperado
+635;02/01/2026;100340;1763,19;Resgate parcial anual (até 10%)
+637;28/10/2026;100425;906,73;Desligamento do quadro social
+638;24/08/2026;100669;600,79;Resgate parcial anual (até 10%)
+640;27/08/2026;100209;1962,92;Quitação de operação de crédito
